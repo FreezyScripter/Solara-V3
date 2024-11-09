@@ -65,6 +65,7 @@ A: You can report bugs in the [**Discord community**](https://discord.gg/GaBywPC
 - **October 16, 2024:** Updated to the current Roblox version.
 - **October 23, 2024:** Updated to the current Roblox version and patched a vulnerability.
 - **October 30, 2024:** Updated to the current Roblox version.
+- **November 8, 2024:** Reverted previous update.
 
 ---
 
